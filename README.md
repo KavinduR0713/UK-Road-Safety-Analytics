@@ -117,5 +117,21 @@ Machine learning models were developed to predict accident outcomes and segment 
 - **Implementation:** All statistical and machine learning results were visualized using Power BI and Python's visualization libraries (matplotlib, seaborn).
 - **Insights:** Interactive dashboards and detailed reports presented the findings in an accessible format, allowing stakeholders to explore the data and make informed decisions.
 
+## Road Accident Moniter in UK
+
+![1](https://github.com/KavinduR0713/Child-Well-Being-Analysis-Ethiopia-and-Vietnam-in-/assets/105490780/bc5362a0-6445-43d8-8458-299f3eeb2459)
+
+![2](https://github.com/KavinduR0713/Child-Well-Being-Analysis-Ethiopia-and-Vietnam-in-/assets/105490780/317613dc-088b-4acc-89f8-3e7525b52074)
+
+![3](https://github.com/KavinduR0713/Child-Well-Being-Analysis-Ethiopia-and-Vietnam-in-/assets/105490780/0fc3a317-9154-455f-9e5c-a26ed1c7c400)
+
+![4](https://github.com/KavinduR0713/Child-Well-Being-Analysis-Ethiopia-and-Vietnam-in-/assets/105490780/9d6b296a-2d70-4180-a07e-4140ad82f2f4)
+
+![5](https://github.com/KavinduR0713/Child-Well-Being-Analysis-Ethiopia-and-Vietnam-in-/assets/105490780/8da20f56-23d4-4705-88fb-044802c9d998)
+
+![6](https://github.com/KavinduR0713/Child-Well-Being-Analysis-Ethiopia-and-Vietnam-in-/assets/105490780/8c3b2fcb-f591-4462-972b-1e283062212c) 
+
+
+
 ## Conclusion:
 RoadSafe Analytics is a powerful tool designed to provide valuable insights into road safety in the UK. By integrating advanced data science techniques with robust data management and visualization tools, this project aims to inform and influence policy decisions, enhance traffic safety measures, and ultimately reduce road accidents. The comprehensive analysis and interactive visualizations make it accessible for policymakers, researchers, and the public, driving data-driven decision-making in road safety initiatives.
